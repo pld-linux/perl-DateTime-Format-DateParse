@@ -4,7 +4,6 @@
 #
 %define		pdir	DateTime
 %define		pnam	Format-DateParse
-%include	/usr/lib/rpm/macros.perl
 Summary:	DateTime::Format::DateParse - Parses Date::Parse compatible formats
 Summary(pl.UTF-8):	DateTime::Format::DateParse - analiza formatów kompatybilnych z Date::Parse
 Name:		perl-DateTime-Format-DateParse
