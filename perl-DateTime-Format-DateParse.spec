@@ -8,7 +8,7 @@ Summary:	DateTime::Format::DateParse - Parses Date::Parse compatible formats
 Summary(pl.UTF-8):	DateTime::Format::DateParse - analiza formatów kompatybilnych z Date::Parse
 Name:		perl-DateTime-Format-DateParse
 Version:	0.05
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
